@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:glassar/model/baseobjek.dart';
 import 'package:glassar/Dashboard.dart';
-import 'package:glassar/model/FaceDetection.dart';
+import 'package:glassar/FaceDetection.dart';
 import 'package:glassar/model/kamera.dart';
 import 'package:glassar/main.dart';
 import 'package:glassar/revisi.dart';
